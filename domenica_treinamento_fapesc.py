@@ -7,13 +7,13 @@ Original file is located at
     https://colab.research.google.com/drive/1Q4KJSc3HkmWSO9E7AvVfElY0viiOkLjB
 
 # Montando Drive
-"""
+
 
 from google.colab import drive
 drive.mount('/content/drive')
 !ls
 
-"""# Importando Bibliotecas"""
+# Importando Bibliotecas"""
 
 import pandas as pd
 import matplotlib.pyplot as plt
